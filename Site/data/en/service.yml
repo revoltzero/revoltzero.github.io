@@ -1,0 +1,23 @@
+enable    : true
+topTitle  : A LIST OF SERVICES
+title     : Our Service.
+subtitle  : 
+item      :
+  - icon  : 
+    title : Security Research
+    list  :
+      - name : Dedicated to pushing the boundaries of cybersecurity, our team delves into the intricate workings of digital systems to uncover vulnerabilities and develop innovative solutions.
+
+  - icon  : 
+    title : Capture The Flag (CTF)
+    list  :
+      - name : From strategizing engaging challenges to orchestrating seamless hosting experiences, our team specializes in both creating and hosting Capture The Flag (CTF) events tailored to your organization's needs. 
+
+  - icon  : 
+    title : Incident Response
+    list  :
+      - name : Equipped with rapid-response expertise and a proactive mindset, our team delivers top-tier Incident Response services to mitigate cyber threats swiftly and effectively.
+
+      
+
+      

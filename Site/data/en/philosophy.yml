@@ -1,0 +1,25 @@
+enable    : true
+topTitle   : LITTLE MORE BRIEF
+title     : About Us.
+subtitle  : Little brief about us ,Our Philosophy, mission & vision. 
+tabItem   :
+  - id        : philosophy
+    title     : Our Philosophy
+    heading   : Securing Tomorrow's Digital Landscape Today
+    content   : >
+      At the heart of our ethos lies the belief that cybersecurity is not just a service but a responsibility towards safeguarding digital realms. We embrace a culture of continuous learning, collaboration, and innovation. Our approach is rooted in transparency, integrity, and a relentless pursuit of excellence. We see cybersecurity not as a barrier, but as an enabler for progress and trust in the digital age.
+    image     : images/company/company-image.jpg
+
+  - id        : mission
+    title     : Mission
+    heading   : Our Mission
+    content   : >
+      Our mission is to empower individuals and organizations with cutting-edge cybersecurity solutions, comprehensive education, and collaborative initiatives. We strive to foster a secure and resilient digital ecosystem by offering top-tier services, hosting engaging capture-the-flag events, contributing to open-source projects, and conducting groundbreaking research. Through our endeavors, we aim to raise awareness, build community, and forge a safer digital future for all.
+    image     : images/company/company-image-2.jpg
+
+  - id        : vision
+    title     : Vision
+    heading   : Our Vision
+    content   : >
+      To be the vanguard of cybersecurity excellence, inspiring confidence in the digital landscape through unparalleled expertise, proactive solutions, and unwavering dedication to protecting the integrity and privacy of individuals, businesses, and organizations worldwide.
+    image     : images/company/company-image-3.jpg

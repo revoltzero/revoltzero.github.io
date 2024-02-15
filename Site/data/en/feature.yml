@@ -1,0 +1,15 @@
+enable  : true
+item  :
+  - icon  : 
+    title : Security Research
+    description : >
+      Dedicated to pushing the boundaries of cybersecurity, our team delves into the intricate workings of digital systems to uncover vulnerabilities and develop innovative solutions.
+
+  - icon  : 
+    title : CTF (Capture The Flag)
+    description : >
+      At the forefront of competitive cybersecurity, our team thrives in the exhilarating realm of Capture The Flag competitions. 
+  - icon  : 
+    title : Community 
+    description : >
+      Committed to making a positive impact beyond the confines of our digital endeavors, our team actively engages in community outreach and education initiatives.

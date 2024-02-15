@@ -1,0 +1,40 @@
+enable  : true
+topTitle: 
+title   : Meet our Team
+subtitle: The Revolt Zero is a team of highly talented individuals with diverse backgrounds and skills in the field of cybersecurity.
+member  :
+  - image         : images/team/1.jpg
+    name          : Maruf Bin Murtuza	
+    designation   : Researcher
+    description   : >
+      Security Specialist at Beetles Cyber Security Ltd.
+    facebookURL   : https://www.facebook.com/its.marufmurtuza
+    twitterURL    : https://twitter.com/marufmurtuza
+
+
+  - image         : images/team/2.jpg
+    name          : Ataf Fazledin Ahamed	
+    designation   : Researcher
+    description   : >
+      Secure Software Developer at OpenRefactory, Inc.
+    twitterURL    : https://twitter.com/fazledyn
+    facebookURL   : https://www.facebook.com/fazledyn
+    githubURL     : https://github.com/fazledyn
+
+  - image         : images/team/team3.jpeg
+    name          : Shahabor Hossain Rifat	
+    designation   : Researcher
+    description   : >
+      Computer Science Enthusiast and AppSec Practitioner 
+    facebookURL   : https://www.facebook.com/shahriffy
+    twitterURL    : https://twitter.com/shahriffy
+ 
+
+  - image         : images/team/4.jpg
+    name          : Hasan Al Mahmud	
+    designation   : Researcher
+    description   : >
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    facebookURL   : https://www.facebook.com/
+    twitterURL    : https://twitter.com/
+

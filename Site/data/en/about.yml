@@ -1,0 +1,10 @@
+enable  : true
+item    :
+
+ 
+  - positionRight : true
+    image : images/about/think.jpg
+    title : We think out of the Box
+    description : >
+      Breaking free from conventional norms, our team prides itself on our ability to think outside the box. With creativity and ingenuity as our guiding principles, we approach cybersecurity challenges from unexpected angles, often uncovering unconventional solutions that defy traditional boundaries. Embracing a mindset of innovation and exploration, we continuously push the limits of what's possible, driving forward progress and reshaping the future of cybersecurity.
+ 

@@ -1,0 +1,27 @@
+[about]
+other = "About"
+[service]
+other = "Service"
+[portfolio]
+other = "Portfolio"
+[blog]
+other = "Blog"
+[contact]
+other = "Contact"
+
+[graphicdesign]
+other = "Security Research"
+[webdesign]
+other = "Capture The Flag (CTF)"
+[webdevelopment]
+other = "Incident Response"
+
+[partners]
+other = "github"
+[faqs]
+other = "Linkend"
+[badges]
+other = "facebook"
+[badges11]
+other = "twitter"
+
