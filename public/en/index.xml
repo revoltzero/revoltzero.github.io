@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revolt Zero</title>
+    <link>https://revoltzero.github.io/en/</link>
+    <description>Recent content on Revolt Zero</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Jul 2018 12:22:40 +0600</lastBuildDate>
+    <atom:link href="https://revoltzero.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TempImage -Hacker101</title>
+      <link>https://revoltzero.github.io/en/blog/tempimage-hacker101/</link>
+      <pubDate>Sun, 08 Jul 2018 12:22:40 +0600</pubDate>
+      <guid>https://revoltzero.github.io/en/blog/tempimage-hacker101/</guid>
+      <description>Hello, it&amp;rsquo;s ShahRiffy. In this write-up, I&amp;rsquo;ll walk you through the process of solving the Templmage challenge in the HackerOne CTF.</description>
+    </item>
+  </channel>
+</rss>
